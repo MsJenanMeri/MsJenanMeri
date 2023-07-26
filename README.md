@@ -1,4 +1,5 @@
-### Hi there We 👋
+
+![Your paragraph text](https://github.com/MsJenanMeri/MsJenanMeri/assets/137586096/24fe5214-b1fd-488d-ab9b-e07e8f4f2279)
 
 - 🔭 I’m currently working on projects
 - 🌱 I’m currently learning SQL
