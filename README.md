@@ -9,16 +9,16 @@
 
 - 🌱 I’m currently learning **SQL, Tableau, and R**
 
-- ⚡ Fun fact **I am double jointed in my fingers**
+- ⚡ Fun fact **My favorite color is pink**
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 align "left"> SQL</h4>
-<h4 align "left"> Python</h4>
-<h4 align "left"> JavaScript</h4>
-<h4 align "left"> R</h4>
-<h4 align "left"> HTML</h4>
-<h4 align "left"> CSS</h4>
-<h4 align "left"> Excel</h4>
-<h4 align "left"> Tableau</h4>
+<h4 align="left" margin-bottom = 0> SQL</h4>
+<h4 align="left" margin-bottom = 0> Python</h4>
+<h4 align="left" margin-bottom = 0> JavaScript</h4>
+<h4 align="left" margin-bottom = 0> R</h4>
+<h4 align= "left" margin-bottom = 0> HTML</h4>
+<h4 align ="left" margin-bottom = 0> CSS</h4>
+<h4 align= "left" margin-bottom = 0> Excel</h4>
+<h4 align ="left" margin-bottom = 0> Tableau</h4>
 
 
