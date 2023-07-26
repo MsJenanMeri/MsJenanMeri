@@ -8,7 +8,7 @@
 <h2>About</h2>
 <p>Hi, I am Jenan! As an aspiring data analyst, I enjoy leveraging my strengths in analytics and communication to solve problems, uncover insights, and help others. I have the most fun on projects when the results can be used to make a change or impact. I have honed my customer service skills in various positions, which has given me a unique perspective on understanding user needs and how to leverage data to meet those needs. My experience in customer service has also allowed me to develop strong interpersonal skills, which are valuable when working with cross-functional teams. I am highly proficient in SQL, Excel, Python, and data visualization tools like Tableau and Power BI. I'm constantly seeking to improve my skills and stay up-to-date with the latest trends and techniques in data analytics!</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <h4 align="left"> SQL</h4>
 <h4 align="left"> Python</h4>
 <h4 align="left"> JavaScript</h4>
