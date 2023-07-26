@@ -10,12 +10,12 @@
 
 <h3 align="right">Languages and Tools:</h3>
 <h4 align="right"> SQL</h4>
-<h4 align="right" > Python</h4>
-<h4 align="right" > JavaScript</h4>
-<h4 align="right" > R</h4>
-<h4 align= "right" > HTML</h4>
-<h4 align ="right" > CSS</h4>
-<h4 align= "right" > Excel</h4>
-<h4 align ="right" > Tableau</h4>
+<h4 align="right"> Python</h4>
+<h4 align="right"> JavaScript</h4>
+<h4 align="right"> R</h4>
+<h4 align="right"> HTML</h4>
+<h4 align="right"> CSS</h4>
+<h4 align="right"> Excel</h4>
+<h4 align="right"> Tableau</h4>
 
 
