@@ -1,7 +1,5 @@
-<--
-![Header](./your-header-image-name.png)
-
-
+<!-- [![MasterHead](https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://rishavchanda.io) -->
+![Header](./header_image.png)
 - 🔭 I’m currently working on projects
 - 🌱 I’m currently learning SQL
 - 💬 Ask me about ...
