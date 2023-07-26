@@ -3,7 +3,7 @@
 
 <h1 align="center">Jenan Meri</h1>
 <h3 align="center">Computer Science student studying at the University of Arizona.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <h2>About</h2>
 <p>Hi, I'm Jenan! As an aspiring data analyst, I enjoy leveraging my strengths in analytics and communication to solve problems, uncover insights, and help others. 
@@ -19,8 +19,4 @@ I have the most fun on projects when the results can be used to make a change or
 <h4 align= "left" margin-bottom = 0> Excel</h4>
 <h4 align ="left" margin-bottom = 0> Tableau</h4>
 
-<style>
-  img {
-    width = 10px;
-  }
-</style>
+
