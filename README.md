@@ -7,8 +7,7 @@
 
 <h2>About</h2>
 <p>Hi, I'm Jenan! As a data analyst, I enjoy leveraging my strengths in analytics and communication to solve problems, uncover insights, and help others. 
-I have the most fun on projects when the results can be used to make a change or impact. For example, I downloaded and analyzed Tiktok data to identify trending songs and determine which aspects of a song contribute to its popularity. This allows me to select the best music for my data analytics content on the platform, where I help others learn all aspects of data analytics (including SQL and data visualization). 
-Check out my extensive portfolio for samples of my work in SQL and Python.</p>
+I have the most fun on projects when the results can be used to make a change or impact. I have honed my customer service skills in various positions, which has given me a unique perspective on understanding user needs and how to leverage data to meet those needs. My experience in customer service has also allowed me to develop strong interpersonal skills, which are valuable when working with cross-functional teams. I am highly proficient in SQL, Excel, Python, and data visualization tools like Tableau and Power BI. I'm constantly seeking to improve my skills and stay up-to-date with the latest trends and techniques in data analytics!</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left" margin-bottom = 0> SQL</h4>
@@ -19,5 +18,3 @@ Check out my extensive portfolio for samples of my work in SQL and Python.</p>
 <h4 align ="left" margin-bottom = 0> CSS</h4>
 <h4 align= "left" margin-bottom = 0> Excel</h4>
 <h4 align ="left" margin-bottom = 0> Tableau</h4>
-
-
