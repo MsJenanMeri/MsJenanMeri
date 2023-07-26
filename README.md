@@ -18,3 +18,9 @@ I have the most fun on projects when the results can be used to make a change or
 <h4 align ="left" margin-bottom = 0> CSS</h4>
 <h4 align= "left" margin-bottom = 0> Excel</h4>
 <h4 align ="left" margin-bottom = 0> Tableau</h4>
+
+<style>
+  img {
+    width = 10px;
+  }
+</style>
