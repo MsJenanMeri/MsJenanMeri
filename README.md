@@ -3,8 +3,7 @@
 ![Header](./header_image.png)
 
 <h1 align="center">Jenan Meri</h1>
-<h3 align="center">Computer Science student and aspiring Data Analyst.</h3>
-Aspring Data Analyst with experience in data analysis and reporting, query optimization, database design, and data modelling. 
+<h3 align="center">Computer Science Student and Aspiring Data Analyst.</h3>
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
