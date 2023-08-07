@@ -10,7 +10,7 @@
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my projects
+Welcome to my portfolio, where I showcase my [projects][(https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)](https://github.com/MsJenanMeri/SQL-Portfolio).
 
 ### 🛠️ Tools
 
