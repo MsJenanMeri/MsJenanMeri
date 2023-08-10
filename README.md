@@ -10,7 +10,7 @@
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/MsJenanMeri/SQL-Portfolio).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/MsJenanMeri?tab=repositories).
 
 ### 🛠️ Tools
 
