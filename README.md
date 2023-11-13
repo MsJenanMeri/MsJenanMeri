@@ -10,12 +10,13 @@
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/MsJenanMeri?tab=repositories).
+Welcome to my portfolio, where I showcase my coding [projects](https://github.com/MsJenanMeri?tab=repositories) and my [visualizations](https://public.tableau.com/app/profile/jenan.meri/vizzes).
+
 
 ### 🛠️ Tools
 
 - Language: SQL, Python, R, JavaScript
 - Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Looker Studio
+- Visualization: Tableau, Power BI
 
 
